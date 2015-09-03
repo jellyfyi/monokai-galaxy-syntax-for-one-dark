@@ -15,7 +15,7 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "readme": "# Monokai Galaxy Syntax for Atom One Dark UI Theme\n\nMonokai Galaxy syntax theme for Atom to work with [One Dark UI Theme](https://atom.io/themes/one-dark-ui).\n\nPorted the [Monokai Syntax for Atom One Dark UI Theme](https://github.com/saschaeggi/monokai-syntax-for-one-dark) by [Sascha Eggenberger](https://github.com/saschaeggi) which ported the [Proton Monokai](https://github.com/jdsimcoe/proton-kai) Version from [jdsimcoe](https://github.com/jdsimcoe) to fit the [One Dark UI Theme](https://atom.io/themes/one-dark-ui).\n\n![Screenshot](screenshot.png)\n",
+  "readme": "# Monokai Galaxy Syntax for Atom One Dark UI Theme\n\nMonokai Galaxy syntax theme for Atom to work with [One Dark UI Theme](https://atom.io/themes/one-dark-ui).\n\nPorted the [Monokai Syntax for Atom One Dark UI Theme](https://github.com/saschaeggi/monokai-syntax-for-one-dark) by [Sascha Eggenberger](https://github.com/saschaeggi) which ported the [Proton Monokai](https://github.com/jdsimcoe/proton-kai) Version from [jdsimcoe](https://github.com/jdsimcoe) to fit the [One Dark UI Theme](https://atom.io/themes/one-dark-ui).\n\n![Screenshot](https://raw.githubusercontent.com/tamedo/monokai-galaxy-syntax-for-one-dark/master/screenshot.png)\n",
   "readmeFilename": "README.md",
   "homepage": "https://github.com/tamedo/monokai-galaxy-syntax-for-one-dark",
   "_id": "monokai-galaxy-syntax-for-one-dark@0.1.0",
